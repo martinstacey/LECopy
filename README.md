@@ -1,2 +1,3 @@
-# LECopy
-Created from FormIt Plugin Playground
+# FormIt Plugin Boilerplate
+
+Boilerplate code for a FormIt Plugin

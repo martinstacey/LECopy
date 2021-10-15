@@ -1,0 +1,7 @@
+{
+    "PluginName": "FormIt Plugin Boilerplate",
+    "PluginDescription": "Boilerplate code for a FormIt Plugin",
+    "PluginType": "Panel",
+    "Panel": "PLUGINLOCATION/plugin.html",
+    "PanelIcon": "PLUGINLOCATION/plugin.png"
+}
